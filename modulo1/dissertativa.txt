@@ -1,0 +1,2 @@
+c)programação orientada a objetos
+Pois, o sistema envolve entidades (livros, usuários...) que têm atributos. Dessa forma, é possivel que cada entidade seja representada por uma classe e essa classe encapsula os dados e métodos. Além disso, é possivel reutilizar o código  já que atributos e métodos podem ser herdados. Além disso, temos ainda que pela programação orientada a objetos é mais eficiente para manutenções futuras e para adicionar novas funcionalidades.
